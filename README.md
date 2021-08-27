@@ -1,2 +1,3 @@
 # yum-repolist-rhel8
-# cmd.sh
+## Starting the bash script
+  $ ./repofile
